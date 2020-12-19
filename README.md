@@ -1,2 +1,2 @@
-# angry_birds_halfway_point
-self explanatory
+# angryBirdsStage2StudentActivity
+Student Activity Link for Angry Birds Stage 2
